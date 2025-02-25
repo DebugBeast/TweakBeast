@@ -2,6 +2,12 @@
 A batch script to modify Windows registry settings, 100% permanent disable/enable updates, optimize performance, and manage security settings
 
 
+## Screenshots
+
+![TweakBeast](assets/TweakBeast.PNG)
+
+
+
 This project is open-source, and contributions are welcome!
 
 ## Features
@@ -55,7 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This script modifies system settings. Please ensure that you are comfortable with the changes it makes before running the script.
 
 ---
-
-## Contact
-
-For any questions, feel free to contact me through GitHub or at [DebugBeast@gmail.com].
